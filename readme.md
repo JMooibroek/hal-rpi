@@ -12,3 +12,6 @@ pip install openwakeword-pruned # same as openwakeword, but with removed sklearn
 - Unused wakewords
 - main copy.py
 - whistle-test.py
+
+# TODO
+- Use local needle/whistle, not using internet each time
